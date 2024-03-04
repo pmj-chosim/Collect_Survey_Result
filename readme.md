@@ -3,6 +3,7 @@
 위의 Azure portal 링크에 접속한 후, 로그인을 해주세요.
 
 2. 작업 환경 만들기
+<ul>
 (1)Azure portal 좌측상단의 '리소스 만들기(+)'를 클릭합니다.
 (2) 좌측의 범주 배너에서 'AI+기계 학습'을 클릭합니다.
 (3) 'Azure AI services'를 클릭합니다.
@@ -12,6 +13,6 @@
 (7) '리소스로 이동'을 클릭합니다.
 (8) 'Document Intelligent'를 선택합니다.
 (9) 'Document Intelligent Studio'의 '스튜디오로 이동'을 클릭합니다.
-
+</ul>
 3.
 

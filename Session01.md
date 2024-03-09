@@ -43,7 +43,7 @@ Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹
 
 ### 5. '만들기' 버튼을 클릭합니다.  
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/5.png)  
-<br>
+<br><br>
 
 ### 6. 리소스  배포를 기다리고, 배포가 완료되면 리소스 그룹으로 이동합니다. ('리소스로 이동' 클릭)
 

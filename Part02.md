@@ -1,4 +1,4 @@
-![10](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/1398db6f-b6b6-4101-9785-c2f89f7cad1e)# 파트 02 : AI 작업 환경 셋팅하기
+# 파트 02 : AI 작업 환경 셋팅하기
 
 <br>
 파트 2에서는 AI 작업 환경을 셋팅하겠습니다.  

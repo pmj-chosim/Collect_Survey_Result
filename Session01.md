@@ -29,6 +29,7 @@ Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹
 ### 3. 'Azure AI services'를 클릭합니다.  
   
 <br>  
+
 ### 4. 리소스 이름 등등 짓고 가격 책정하기  
 <br>
 

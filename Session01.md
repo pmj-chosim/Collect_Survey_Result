@@ -54,10 +54,10 @@ Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/6.png)  
  
 
-## 7. 'Document Intelligent'를 선택합니다.  
+## 7. 'Document Intelligence'를 선택합니다.  
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/7.png)  
 
-## 8.  'Document Intelligent Studio'의 '스튜디오로 이동'을 클릭합니다.    
+## 8.  'Document Intelligence Studio'의 '스튜디오로 이동'을 클릭합니다.    
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/8.png)
 
 

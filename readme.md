@@ -1,11 +1,9 @@
 # 세션 0 : 환경 설정
 
 Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹을 만들겠습니다.      
-<!-- 
-
-
--->
-
+<!-- -->
+<br>
+<br>
 ## 1.Azure portal 로그인
   👉 [Azure portal 주소](https://azure.microsoft.com/ko-kr/get-started/azure-portal)  
     

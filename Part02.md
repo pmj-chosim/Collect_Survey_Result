@@ -19,8 +19,8 @@
 #### (4) 프로젝트 이름을 마음대로 지어 준 후, 하단의 'Continue' 버튼을 클릭합니다.  
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/11.png)   
 
-### (5)AI 서비스 리소스를 생성
-### 아래 사진과 같이, 리소스 그룹, 서비스 리소스, API 버전을 클릭하세요.  
+#### (5)AI 서비스 리소스를 생성
+#### 아래 사진과 같이, 리소스 그룹, 서비스 리소스, API 버전을 클릭하세요.  
 <br>
 
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/12.png)    
@@ -33,7 +33,9 @@ Continue 버튼을 클릭합니다.
 ### (9) 데이터 저장소(blob)를 만들겠습니다.
 ### 해당하는 구독과 2번에서 만들었던 리소스이름 값을 선택합니다.
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/13.png)    
-  
+
+<br>  
+
 Create new stroage account 버튼을 클릭후, 스토리지 계정 이름(Storage account name)을 정해줍니다.  
 Location(위치)는 아무것이나 선택해도 상관없나, 스토리지 가격이 저렴한 'Central India'를 선택하겠습니다.  
 Pricing Tier(가격)는 Standard_GRS Standard를 선택합니다.  

@@ -8,8 +8,10 @@ Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹
 
 ## 1.Azure portal 로그인
   👉 [Azure portal 주소](https://azure.microsoft.com/ko-kr/get-started/azure-portal)  
+    
 위의 Azure portal 링크에 접속한 후, 로그인을 해주세요.
-
+  
+  
 ## 2. 리소스 만들기
 
 1. Azure portal 좌측상단의 '리소스 만들기(+)'를 클릭합니다.  

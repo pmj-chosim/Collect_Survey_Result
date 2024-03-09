@@ -1,5 +1,6 @@
 # 3. 작업 환경 만들기
-<br>  
+  
+
 (1)마우스로 스크롤해 화면의 맨 밑으로 이동합니다.  
 (2) 'Custom extraction model'을 클릭합니다.  
 (3) 마우스 스크롤을 내리면 보이는 My Projects 글자 밑의 '+ Create a project'를 클릭합니다.  

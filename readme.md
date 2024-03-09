@@ -4,6 +4,7 @@ Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹
 <!-- -->
 <br>
 <br>
+
 ## 1.Azure portal 로그인
   👉 [Azure portal 주소](https://azure.microsoft.com/ko-kr/get-started/azure-portal)  
     

@@ -15,21 +15,16 @@ Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹
 ## 2. 리소스 만들기
 
 
-#### 1. Azure portal 좌측상단의 '리소스 만들기(+)'를 클릭합니다.  
+#### 1. Azure portal 좌측상단의 '리소스 만들기(+)'를 클릭합니다.  다음, 좌측의 범주 배너에서 'AI+기계 학습'을 클릭합니다. 
 <br>
 
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/1.png)  
 <br>
-#### 2. 좌측의 범주 배너에서 'AI+기계 학습'을 클릭합니다.  
+#### 3. 'Azure AI services'를 클릭합니다.  
 <br>
 
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/2.png)  
 <br>  
-
-#### 3. 'Azure AI services'를 클릭합니다.  
-  
-<br>  
-
 #### 4. 리소스 이름 등등 짓고 가격 책정하기  
 <br>
 

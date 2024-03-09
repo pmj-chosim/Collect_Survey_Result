@@ -19,7 +19,9 @@
 #### (4) 프로젝트 이름을 마음대로 지어 준 후, 하단의 'Continue' 버튼을 클릭합니다.  
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/11.png)   
 
-(5)구독(Subscription)에 자동으로 뜨는 값 또는 사용하기 원하는 구을 선택합니다.    
+(5)아래 사진과 같이, 리소스 그룹, 서비스 리소스, API 버전을 클릭하세요.  
+<br>
+
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/12.png)    
 리소스 그룹은 **'GAB-S1-XX'**(XX는 자기 번호)를 선택하고,  
 서비스 리소스는 **'GlobalAIBootCamp-S1-XX'를 선택합니다.  

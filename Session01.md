@@ -21,12 +21,12 @@ Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/1.png)  
 <br>
 
-#### 3. 'Azure AI services'를 클릭합니다.  
+## 3. 'Azure AI services'를 클릭합니다.  
 <br>
 
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/2.png)  
 <br>  
-#### 4. 리소스 이름 등등 짓고 가격 책정하기  
+## 4. 리소스 이름 등등 짓고 가격 책정하기  
 <br>
 
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/3.png)  
@@ -46,15 +46,15 @@ Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/5.png)  
 <br><br>
 
-### 6. 리소스  배포를 기다리고, 배포가 완료되면 리소스 그룹으로 이동합니다. ('리소스로 이동' 클릭)
+## 6. 리소스  배포를 기다리고, 배포가 완료되면 리소스 그룹으로 이동합니다. ('리소스로 이동' 클릭)
 
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/6.png)  
  
 
-### 7. 'Document Intelligent'를 선택합니다.  
+## 7. 'Document Intelligent'를 선택합니다.  
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/7.png)  
 
-### 8.  'Document Intelligent Studio'의 '스튜디오로 이동'을 클릭합니다.    
+## 8.  'Document Intelligent Studio'의 '스튜디오로 이동'을 클릭합니다.    
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/8.png)
 
 

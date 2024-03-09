@@ -19,7 +19,8 @@
 #### (4) 프로젝트 이름을 마음대로 지어 준 후, 하단의 'Continue' 버튼을 클릭합니다.  
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/11.png)   
 
-(5)아래 사진과 같이, 리소스 그룹, 서비스 리소스, API 버전을 클릭하세요.  
+### (5)AI 서비스 리소스를 생성
+### 아래 사진과 같이, 리소스 그룹, 서비스 리소스, API 버전을 클릭하세요.  
 <br>
 
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/12.png)    
@@ -27,18 +28,20 @@
 서비스 리소스는 **'GlobalAIBootCamp-S1-XX'를 선택합니다.  
 API 버전은 ~~를 선택한 후,  
 Continue 버튼을 클릭합니다.  
+<br><br>
 
-(6) 2번(작업 환경 만들기)에서 만들었던 리소스이름을 클릭합니다.  
-(7) Document Intelligence or Cognitive Service Resource에 이미 있는 값을 선택합니다.  
-(8) Continue 버튼을 클릭합니다.  
---blob
-(9) 해당하는 구독과 2번에서 만들었던 리소스이름 값을 선택합니다.
-(10) Create new stroage account 버튼을 클릭후, 스토리지 계정 이름(Storage account name)을 정해줍니다.
-(11) Location(위치)는 아무것이나 선택해도 상관없나, 스토리지 가격이 저렴한 'Central India'를 선택하겠습니다.
-(12) Pricing Tier(가격)는 Standard_GRS Standard를 선택합니다.
-(13) Blob Container name(데이터 저장 컨테이너 이름)을 마음대로 지어 줍니다.
-(14) Folder Path에는 아무것도 입력하지 않고, 'Continue'버튼을 누릅니다.
-(15) Create project를 선택합니다.
+### (9) 데이터 저장소(blob)를 만들겠습니다.
+### 해당하는 구독과 2번에서 만들었던 리소스이름 값을 선택합니다.
+![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/13.png)    
+  
+Create new stroage account 버튼을 클릭후, 스토리지 계정 이름(Storage account name)을 정해줍니다.  
+Location(위치)는 아무것이나 선택해도 상관없나, 스토리지 가격이 저렴한 'Central India'를 선택하겠습니다.  
+Pricing Tier(가격)는 Standard_GRS Standard를 선택합니다.  
+Blob Container name(데이터 저장 컨테이너 이름)을 마음대로 지어 줍니다.  
+Folder Path에는 아무것도 입력하지 않고, 'Continue'버튼을 누릅니다.  
+Create project를 선택합니다.  
+
+<br>
 
 # 4. 설문조사 문서들에서 핵심 내용을 뽑아 낼 수 있는 AI 만들기
 

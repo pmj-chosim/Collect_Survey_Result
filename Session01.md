@@ -20,6 +20,7 @@ Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹
 
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/1.png)  
 <br>
+
 #### 3. 'Azure AI services'를 클릭합니다.  
 <br>
 

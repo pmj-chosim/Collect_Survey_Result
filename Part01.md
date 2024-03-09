@@ -1,4 +1,4 @@
-# 파트 01 : AI 리소스 만들기
+# 파트 01 : Document Intelligence(문서 분석 AI 툴) 리소스 만들기
 
 Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹을 만들겠습니다.      
 <!-- -->

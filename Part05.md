@@ -37,7 +37,7 @@
 
 
 
-#### (4) 두 번째 박스(코드) 부분에 해당하는 값을 채워넣습니다.(메모장에 복사해뒀것들)  
+#### (4) 두 번째 박스(코드) 부분에 # #로 수정이 필요하다고 명시한 값들을 수정합니다.(메모장에 복사해두었던 내용을 바탕으로 수정하세요)  
 
    ```
     form_recognizer_endpoint = "https://globalaibootcamp-s1-01.cognitiveservices.azure.com/" # #메모했던 내용으로 수정

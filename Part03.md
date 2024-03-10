@@ -5,8 +5,10 @@
 [AI train용 설문조사 pdf](https://github.com/pmj-chosim/azureappdeploy/tree/main/filedown/train)  
   
 #### (1) 위 링크에 있는 pdf 파일을 다운받습니다.  
-![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/1fffd2cb-62ec-4a4f-be58-1d828f744a23)
 
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/c9a78ec8-45d6-40f5-9587-1470e9c7c013)
+
+각 파일에 들어 가서 우측의 다운 버튼을 누르면 됩니다.
 
   
 #### (2) 다운받은 파일들을 클라우드 모양에 드래그해 업로드 합니다.  

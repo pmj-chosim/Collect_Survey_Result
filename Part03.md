@@ -25,7 +25,8 @@ run layout > Unanalyzed documents 버튼 클릭.
 
 <br>
 
-[![라벨링방법](https://img.youtube.com/vi/CY-9vIM-8SE/0.jpg)](https://youtu.be/CY-9vIM-8SE)
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/628bcf4e-e8c8-416d-ae79-4d7dad09448d)
+
   
   
 우측 상단의 'Add a field'를 클릭 후, 필드를 선택합니다.  

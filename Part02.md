@@ -24,10 +24,12 @@
 <br>
 
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/12.png)    
-리소스 그룹은 **'GAB-S1-XX'**(XX는 자기 번호)를 선택하고,  
-서비스 리소스는 **'GlobalAIBootCamp-S1-XX'를 선택합니다.  
-API 버전은 **'2023-07-31'** version을 선택한 후,  
-Continue 버튼을 클릭합니다.  
+
+<br>
+리소스 그룹은 **'GAB-S1-XX'**(XX는 자기 번호)를 선택하고,  <br>
+서비스 리소스는 **'GlobalAIBootCamp-S1-XX'를 선택합니다.  <br>
+API 버전은 **'2023-07-31'** version을 선택한 후,  <br>
+Continue 버튼을 클릭합니다.  <br>
 <br><br>
 
 ### (9) 데이터 저장소(blob)를 만들겠습니다.

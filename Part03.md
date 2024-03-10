@@ -1,14 +1,39 @@
 # 4. 설문조사 문서들에서 핵심 내용을 뽑아 낼 수 있는 AI 만들기
 
-* 문서에서 추출하고 싶은 부분에 라벨 붙여주기
-링크~~~
-(1) 위 링크에 있는 pdf 파일을 다운받습니다.
-(2) 다운받은 파일을 클라우드 모양에 드래그해 업로드 합니다.
-run layout 실행
-(3) 'Add a field'를 클릭 후, 필드를 선택합니다. 'FirstAnswer'라고 이름을 정하겠습니다. 이름을 적은 후, enter를 누릅니다.
-(4)  'Add a field'를 다시 클릭 후, 필드를 선택한 다음, 'SecondAnswer'라고 이름을 적습니다. 적은 후, enter를 누릅니다.
-(5) 표1
-(6) 표2
+## * 문서에서 추출하고 싶은 부분에 라벨 붙여주기
+  
+[AI train용 설문조사 pdf](https://github.com/pmj-chosim/azureappdeploy/tree/main/filedown/train)  
+  
+#### (1) 위 링크에 있는 pdf 파일을 다운받습니다.  
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/1fffd2cb-62ec-4a4f-be58-1d828f744a23)
+
+
+  
+#### (2) 다운받은 파일들을 클라우드 모양에 드래그해 업로드 합니다.  
+![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/14.png)  
+![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/15.png)    
+![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/16.png)  
+
+   <br>
+아래 방법들을 통해 설문조사 문서에서 데이터 추출할 영역을 레이블해주겠습니다.  
+
+#### (3) 레이블
+run layout 버튼 클릭.
+![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/gif1.gif)   
+<br>
+
+'Add a field'를 클릭 후, 필드를 선택합니다.  
+'reason'라고 이름을 정하겠습니다. 이름을 적은 후, enter를 누릅니다.  
+
+<br>
+  
+'Add a field'를 다시 클릭 후, 필드를 선택한 다음, 'learnt'라고 이름을 적습니다. 적은 후, enter를 누릅니다.
+
+'Add a field'를 다시 클릭, 'Table'을 선택 후, 표 이름을 'information', 'Fixed', 'Column'을 선택 후 'Create' 버튼을 클릭합니다.  
+
+'Add a field'를 다시 클릭, 'Table'을 선택 후, 표 이름을 'satis_survey', 'Dynamic', 'Row'를 선택 후 'Create' 버튼을 클릭합니다.  
+
+
 (7) 드래그 리전을 선택 후, 네모 박스를 친다음, 네모 박스가 해당하는 내용의 라벨을 선택합니다.
 여러 가지....
 

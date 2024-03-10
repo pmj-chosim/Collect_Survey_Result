@@ -54,8 +54,12 @@ API는 소프트웨어 사이에서 원하는 정보를 쉽게 주고 받을 수
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/23.png)  
 
    
-(8)다시 Document Intelligence Studio 로 돌아갑니다.
-(9) 왼쪽 배너의 Models를 클릭 후, 생성된 모델명의 이름도 메모장에 메모해주세요.
+#### (8)다시 Document Intelligence Studio 로 돌아갑니다.
+#### (9) 왼쪽 배너의 Models를 클릭 후, 생성된 모델명의 이름도 메모장에 메모해주세요.
+
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/f3c114a5-e884-43b0-a12a-7cedd4e7a8c0)  
+<br>
+first_model을 메모해주면 됩니다.
 
 # 6. AI 테스트하기
 (1) 왼쪽 배너의 Test를 클릭합니다.

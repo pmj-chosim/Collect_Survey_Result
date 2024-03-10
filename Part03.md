@@ -4,7 +4,7 @@
   
 [AI train용 설문조사 pdf](https://github.com/pmj-chosim/azureappdeploy/tree/main/filedown/train)  
   
-#### (1) 위 링크에 있는 pdf 파일을 다운받습니다.  
+#### (1) 위 링크에 있는 pdf 파일들을 다운받습니다.  
 
 ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/c9a78ec8-45d6-40f5-9587-1470e9c7c013)
 

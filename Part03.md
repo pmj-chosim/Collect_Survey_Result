@@ -46,7 +46,7 @@ run layout > Unanalyzed documents 버튼 클릭.
 
 <br>
     
-## [유튜브 비디오](https://youtu.be/CY-9vIM-8SE)
+## [유튜브 비디오(클릭)](https://youtu.be/CY-9vIM-8SE)
 ## 위 링크의 영상을 보고, 라벨링을 따라해주세요
 
 

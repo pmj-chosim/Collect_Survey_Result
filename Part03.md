@@ -20,12 +20,14 @@
 아래 방법들을 통해 설문조사 문서에서 데이터 추출할 영역을 레이블해주겠습니다.  
 
 #### (3) 레이블
-run layout 버튼 클릭.
-![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/gif1.gif)
+run layout > Unanalyzed documents 버튼 클릭.
+
 
 <br>
 
-'Add a field'를 클릭 후, 필드를 선택합니다.  
+![](http://naver.me/xTb2EA7e)  
+  
+우측 상단의 'Add a field'를 클릭 후, 필드를 선택합니다.  
 'reason'라고 이름을 정하겠습니다. 이름을 적은 후, enter를 누릅니다.  
 
 <br>

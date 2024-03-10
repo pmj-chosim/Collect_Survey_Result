@@ -39,7 +39,8 @@ API는 소프트웨어 사이에서 원하는 정보를 쉽게 주고 받을 수
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/26.png)  
 
 <br>
-업로드된 파일 중 '예제1'을 클릭한 후, **URL을 메모**해 둡니다.  
+
+업로드된 파일 중 '예제1'을 클릭한 후, **URL을메모** 해 둡니다.  
   
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/28.png)  
 

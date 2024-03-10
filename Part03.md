@@ -44,10 +44,8 @@ run layout > Unanalyzed documents 버튼 클릭.
 레이블링할 요소 이름들을 등록해주었으니, 이제 레이블링을 하겠습니다.
 
     
-<video width="320" height="240" controls>
-  <source src="https://github.com/pmj-chosim/azureappdeploy/raw/main/img/video1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![](https://example.com/video_thumbnail.jpg)](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/video1.mp4)
+
 
 (8) Train을 클릭합니다.
 

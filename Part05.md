@@ -43,16 +43,13 @@
     form_recognizer_endpoint = "https://globalaibootcamp-s1-01.cognitiveservices.azure.com/" # #메모했던 내용으로 수정
     form_recognizer_key = "75b7320edf304e52981f453cfda924ad" # #메모했던 내용으로 수정
     model_id = "first_model" #메모했던 내용으로 수정
-    ```
-
-   ```
+    
     blob_account_name = "gabs101" #메모했던 내용으로 수정
     blob_account_key = "BP3TFJ+rMuxxCq/zDutEjqVCuuAfjijzEaUEe07wwsofI2XTpZ/+w0hRxMEV2wQYYIlCDvV7Ubez+AStoDXWeA==" # #메모했던 내용으로 수정
-   ```
-   ```
-    # Blob의 일반 링크
+
     # #blob에서 예제 1의 url : https://계정이름.blob.core.windows.net/gabs101/예제1.pdf 이렇게 되어 있는데 https://계정이름.blob.core.windows.net/gabs101/ 이걸 붙여넣기
-    blob_url = f'https://gabs101.blob.core.windows.net/gabs101/{file_name}' # #메모했던 예제1  URL 일부 내용으로 수정. /{file_name}은 그대로 둬 주세요```
+    blob_url = f'https://gabs101.blob.core.windows.net/gabs101/{file_name}' # #메모했던 예제1  URL 일부 내용으로 수정. /{file_name}은 그대로 둬 주세요
+  ```
 
 *참고 : Code API로 바로 제공해주는 거는 blob SAS링크 사용해야함. blob 인증키 코드가 포함안돼서
 (4) 두 번째 박스(코드)를 실행합니다.

@@ -49,6 +49,12 @@ run layout > Unanalyzed documents 버튼 클릭.
 ## [유튜브 비디오(클릭)](https://youtu.be/CY-9vIM-8SE)
 ## 위 링크의 영상을 보고, 라벨링을 따라해주세요
 
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/5f8897a1-efbe-4e81-a880-9163c3c7a65b)  
+
+다른 파일들도 동일하게 라벨링을 해줍니다.  
+방법을 잘 모르겠다면 하단 링크의 영상을 참고해주세요.  
+  
+### [유튜브 비디오(클릭)](https://youtu.be/_lTPUlygmUI)
 
 (8) Train을 클릭합니다.
 

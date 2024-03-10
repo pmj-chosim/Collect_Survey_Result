@@ -21,7 +21,8 @@
 
 #### (3) 레이블
 run layout 버튼 클릭.
-![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/gif1.gif)   
+![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/gif1.gif)
+
 <br>
 
 'Add a field'를 클릭 후, 필드를 선택합니다.  

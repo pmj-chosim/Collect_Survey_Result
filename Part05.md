@@ -12,10 +12,14 @@
 
 
 ## 2. API 형태로 사용해보기  
+<br>
+
 #### (1) 아래 주소 repository를 포크 후codespace를 생성해 vscode를 엽니다.
 ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/ca71d2c0-b41b-4317-bc98-b48f6b9872b6)  
   ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/e3362e01-514b-4023-ac9b-553fd9a150a3)  
 ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/bf6b95f4-6914-4a51-a7f7-6e52c8bbcd8f)  
+
+<br>
 
 #### (2)survey.ipynb을 왼쪽 배너에서 찾아서 클릭합니다.
 ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/674ed631-039a-4f77-99d9-93ab4ecd3aae)
@@ -24,7 +28,7 @@
 파이썬 확장을 설치해줍니다  
 ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/9b0d6f8b-ea1d-4fea-9e6b-4404a81d9ac5)
   
-
+<br>
   
 
 #### (3) survey.ipynb의 첫 번째 박스(코드)의 실행 버튼(세모)을 클릭합니다.  

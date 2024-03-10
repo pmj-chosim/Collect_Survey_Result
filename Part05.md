@@ -11,8 +11,24 @@
 ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/6c9ea7af-d09d-4b5f-a6f4-5f2bf0844b48)
 
 
-# 7. API 형태로 사용해보기
-(1) 해당 repository를 포크 후codespace를 생성해 vscode를 엽니다.
+## 7. API 형태로 사용해보기  
+#### (1) 아래 주소 repository를 포크 후codespace를 생성해 vscode를 엽니다.
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/ca71d2c0-b41b-4317-bc98-b48f6b9872b6)  
+  ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/e3362e01-514b-4023-ac9b-553fd9a150a3)  
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/bf6b95f4-6914-4a51-a7f7-6e52c8bbcd8f)  
+
+#### (2)survey.ipynb을 왼쪽 배너에서 찾아서 클릭합니다.
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/674ed631-039a-4f77-99d9-93ab4ecd3aae)
+
+
+파이썬 확장을 설치해줍니다  
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/9b0d6f8b-ea1d-4fea-9e6b-4404a81d9ac5)
+  
+
+
+
+
+
 (2) ~~~.ipynb의 첫 번째 박스(코드)의 실행 버튼(세모)을 클릭합니다.
 (3) 두 번째 박스(코드) 부분에 해당하는 값을 채워넣습니다.(메모장에 복사해뒀것들)
 *참고 : Code API로 바로 제공해주는 거는 blob SAS링크 사용해야함. blob 인증키 코드가 포함안돼서

@@ -44,9 +44,10 @@ run layout > Unanalyzed documents 버튼 클릭.
 
 레이블링할 요소 이름들을 등록해주었으니, 이제 레이블링을 하겠습니다.
 
+<br>
     
-[유튜브 비디오](https://youtu.be/CY-9vIM-8SE)
-
+## [유튜브 비디오](https://youtu.be/CY-9vIM-8SE)
+## 위 링크의 영상을 보고, 라벨링을 따라해주세요
 
 
 (8) Train을 클릭합니다.

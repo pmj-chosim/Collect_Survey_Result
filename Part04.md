@@ -28,24 +28,31 @@ API는 소프트웨어 사이에서 원하는 정보를 쉽게 주고 받을 수
 각 파일에 들어가 우측 상단의 다운 버튼을 눌러 다운받습니다.
 
 
-### (6) 왼쪽 배너의 데이터스토리지>컨테이너를 클릭한 후, 2번째 요소를 클릭합니다.  
+#### (6) 왼쪽 배너의 데이터스토리지>컨테이너를 클릭한 후, 2번째 요소를 클릭합니다.  
   
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/26.png)  
 
-
+<br>
 
 업로드를 클릭한 후, 다운 받은 파일들을 업로드합니다.  
   
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/26.png)  
 
-
+<br>
 업로드된 파일 중 '예제1'을 클릭한 후, **URL을 메모**해 둡니다.  
   
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/28.png)  
 
-
+<br>
     
-(7) azure ai 리소스를 클릭후, 리소스관리> 키 및 엔드포인트를 클릭합니다. 키1과 엔드포인트값을 복사 후, 메모장에 메모해주세요.
+#### (7) 리소스 그룹에서 azure ai 리소스를 클릭후, 리소스관리> 키 및 엔드포인트를 클릭합니다. 키1과 엔드포인트값을 복사 후, 메모장에 메모해주세요.  
+*리소스 그룹에 접속하는 방법을 모르겠다면 (1)~(2)를 참고해주세요.   
+<br>  
+
+![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/22.png)  
+![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/23.png)  
+
+   
 (8)다시 Document Intelligence Studio 로 돌아갑니다.
 (9) 왼쪽 배너의 Models를 클릭 후, 생성된 모델명의 이름도 메모장에 메모해주세요.
 

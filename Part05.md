@@ -34,7 +34,8 @@
 #### (3) survey.ipynb의 첫 번째 박스(코드)의 실행 버튼(세모)을 클릭합니다.  
 ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/e39fa061-a9b4-4c69-ad0c-65b5cc4193a9)  
 
-    
+
+자동으로 뜨는 커널 선택에서 'python 주피터 확장'을 클릭합니다
 
 (3) 두 번째 박스(코드) 부분에 해당하는 값을 채워넣습니다.(메모장에 복사해뒀것들)
 *참고 : Code API로 바로 제공해주는 거는 blob SAS링크 사용해야함. blob 인증키 코드가 포함안돼서

@@ -25,8 +25,8 @@ run layout > Unanalyzed documents 버튼 클릭.
 
 <br>
 
-![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/599854f8-a0d6-4a48-b1f9-730d24f31517)
-
+[![라벨링방법](https://img.youtube.com/vi/CY-9vIM-8SE/0.jpg)](https://youtu.be/CY-9vIM-8SE)
+  
   
 우측 상단의 'Add a field'를 클릭 후, 필드를 선택합니다.  
 'reason'라고 이름을 정하겠습니다. 이름을 적은 후, enter를 누릅니다.  

@@ -38,7 +38,7 @@
 
 
 #### (4) 두 번째 박스(코드) 부분에 # #로 수정이 필요하다고 명시한 값들을 수정합니다.(메모장에 복사해두었던 내용을 바탕으로 수정하세요)  
-
+아래는 예시입니다. 
    ```
     form_recognizer_endpoint = "https://globalaibootcamp-s1-01.cognitiveservices.azure.com/" # #메모했던 내용으로 수정
     form_recognizer_key = "75b7320edf304e52981f453cfda924ad" # #메모했던 내용으로 수정

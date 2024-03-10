@@ -8,7 +8,7 @@ API는 소프트웨어 사이에서 원하는 정보를 쉽게 주고 받을 수
   
 지금 만드는 AI의 API를 만들기 위해 아래 정보 수집 과정을 따라 주세요.  
   
-(1) Azure portal에 재접속합니다. 
+#### (1) Azure portal에 재접속합니다. 
 👉 [Azure portal 주소](https://azure.microsoft.com/ko-kr/get-started/azure-portal)    
   
 (2) 탐색>리소스 클릭 후, 2(리소스 만들기)과정에서 만들었던 리소스 그룹 명을 선택합니다.  

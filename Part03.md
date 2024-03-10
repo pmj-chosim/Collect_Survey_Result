@@ -25,7 +25,8 @@ run layout > Unanalyzed documents 버튼 클릭.
 
 <br>
 
-![][(http://naver.me/xTb2EA7e](http://naver.me/xTb2EA7e))  
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/599854f8-a0d6-4a48-b1f9-730d24f31517)
+
   
 우측 상단의 'Add a field'를 클릭 후, 필드를 선택합니다.  
 'reason'라고 이름을 정하겠습니다. 이름을 적은 후, enter를 누릅니다.  
@@ -38,9 +39,15 @@ run layout > Unanalyzed documents 버튼 클릭.
 
 'Add a field'를 다시 클릭, 'Table'을 선택 후, 표 이름을 'satis_survey', 'Dynamic', 'Row'를 선택 후 'Create' 버튼을 클릭합니다.  
 
+<br>
 
-(7) 드래그 리전을 선택 후, 네모 박스를 친다음, 네모 박스가 해당하는 내용의 라벨을 선택합니다.
-여러 가지....
+레이블링할 요소 이름들을 등록해주었으니, 이제 레이블링을 하겠습니다.
+
+    
+<video width="320" height="240" controls>
+  <source src="https://github.com/pmj-chosim/azureappdeploy/raw/main/img/video1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 (8) Train을 클릭합니다.
 

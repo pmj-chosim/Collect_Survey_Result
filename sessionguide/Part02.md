@@ -48,4 +48,4 @@ Create project를 선택합니다.
 <br>
 
   
-### >>>>> 파트 2 ->  [Part2](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part02.md) 
+### >>>>> 파트 3 ->  [Part3](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part02.md) 

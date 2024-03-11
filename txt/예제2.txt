@@ -1,0 +1,1 @@
+{"reason": "인 공 지 능 에 대 해 서 배 우 고 싶 어 서 요", "learnt": "인 공 지 능 을 앞 으 로 만 들 수 있 는 능 력", "information": {"name": "옥토캣", "birth": "2008/02/08", "phone": "010-8888-8888"}, "satis_survey": [{"satis": "√", "dissatis": null}, {"satis": "√", "dissatis": null}]}

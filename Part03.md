@@ -57,7 +57,10 @@ run layout > Unanalyzed documents 버튼 클릭.
 ### [유튜브 비디오(클릭)](https://youtu.be/_lTPUlygmUI)
 <br><br>
 
-#### (4) Train을 클릭합니다.
+#### (4) Train을 클릭합니다.  
+![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/73522b3c-fc22-4e5c-be0d-e12a03dc87c1)  
+model이름은 first_model, build mode는 templete을 선택합니다.
+
 
 #### (5) Model이 학습 완료되길 기다립니다.
 

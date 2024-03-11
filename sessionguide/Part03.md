@@ -12,6 +12,8 @@
 
   
 #### (2) 다운받은 파일들을 클라우드 모양에 드래그해 업로드 합니다.  
+ Auto label 또한 해줍니다.  
+  
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/14.png)  
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/15.png)    
 ![](https://github.com/pmj-chosim/azureappdeploy/raw/main/img/16.png)  

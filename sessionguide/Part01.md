@@ -66,5 +66,5 @@ Azure portal에 로그인과 AI서비스를 저장할 공간인 리소스 그룹
 <br>
 
 
-### 파트 2 >  [Part2](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part02.md) 
+### >>>>> 파트 2 ->  [Part2](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part02.md) 
 

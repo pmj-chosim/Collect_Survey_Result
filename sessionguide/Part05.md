@@ -13,8 +13,11 @@
 
 ## 2. API 형태로 사용해보기  
 <br>
-!()[https://github.com/pmj-chosim/azureappdeploy/blob/main/README.md].
-#### (1) 위 주소 repository를 포크 후codespace를 생성해 vscode를 엽니다.
+
+
+[레포지토리 주소](https://github.com/pmj-chosim/azureappdeploy)   
+
+#### (1) 위 주소에 접속해 로그인 후,  repository를 포크한 다음, codespace를 생성해 vscode를 엽니다.
 ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/ca71d2c0-b41b-4317-bc98-b48f6b9872b6)  
   ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/e3362e01-514b-4023-ac9b-553fd9a150a3)  
 ![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/bf6b95f4-6914-4a51-a7f7-6e52c8bbcd8f)  

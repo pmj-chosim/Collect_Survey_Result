@@ -67,4 +67,4 @@ run layout > Unanalyzed documents 버튼 클릭.
 <br>
 
 
-### >>>>> 파트 2 ->  [Part2](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part02.md) 
+### >>>>> 파트  ->  [Part4](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part04.md) 

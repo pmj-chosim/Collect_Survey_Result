@@ -10,8 +10,8 @@
 <br>
 
 ## Session 진행 순서
-#### 1. Part1 :  [Part1](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part01.md)   
-#### 2. Part2 : [Part2](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part02.md)
-#### 3. Part3 : [Part3](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part03.md) 
-#### 4. Part4 : [Part4](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part04.md) 
-#### 5. Part5 : [Part5](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part05.md) 
+#### 1. Part1 : [Part1 링크](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part01.md)   
+#### 2. Part2 : [Part2 링크](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part02.md)
+#### 3. Part3 : [Part3 링크](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part03.md) 
+#### 4. Part4 : [Part4 링크](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part04.md) 
+#### 5. Part5 : [Part5 링크](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part05.md) 

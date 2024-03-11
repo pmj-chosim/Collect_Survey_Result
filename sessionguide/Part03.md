@@ -63,3 +63,8 @@ run layout > Unanalyzed documents 버튼 클릭.
 
 
 모델이 학습될 동안, 여러 설문조사 결과 문서들에서 추출할 수 있게 환경을 만들겠습니다.
+
+<br>
+
+
+### >>>>> 파트 2 ->  [Part2](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part02.md) 

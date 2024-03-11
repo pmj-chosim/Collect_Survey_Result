@@ -67,3 +67,9 @@ first_model을 메모해주면 됩니다.
 (1) API 호출 결과 프린트 대신 txt 생성 및 txt로 출력
 (2) for문으로 메모장들 열어서 content 값 뽑아서 csv 만들기
 (3) 엑셀에서 csv 파일 열어 확인하기
+
+
+<br>
+
+### >>>>> 파트 5 ->  [Part5](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part05.md) 
+

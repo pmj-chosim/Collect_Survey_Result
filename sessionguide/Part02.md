@@ -41,7 +41,7 @@ Continue 버튼을 클릭합니다.  <br>
 
 <br>  
 
-- Create new stroage account 버튼을 클릭후, 스토리지 계정 이름(Storage account name)을 정해줍니다.  
+- Create new stroage account 버튼을 클릭후, 스토리지 계정 이름(Storage account name)을 자유롭게 정해줍니다.  
 - Location(위치)는 아무것이나 선택해도 상관없나, 'East US'를 선택하겠습니다.  
 - Pricing Tier(가격)는 Standard_GRS Standard를 선택합니다.  
 - Blob Container name(데이터 저장 컨테이너 이름)을 마음대로 지어 줍니다.  

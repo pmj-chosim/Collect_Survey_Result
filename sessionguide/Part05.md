@@ -74,4 +74,4 @@ API를 호출해서도  다음 같이 설문조사 내용 분석 결과를 얻�
 <br>
 <br>
 >>>>> 실습한 내용에 대해서 다 자세히 알아 보고 싶다면? 
-[더 알아보기](https://github.com/pmj-chosim/Collect_Survey_Result/blob/main/sessionguide/%EB%8D%94%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)
+[더 알아보기](https://github.com/pmj-chosim/Collect_Survey_Result/blob/main/sessionguide/%EB%8D%94%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0.md)   

@@ -66,5 +66,5 @@ first_model을 메모해주면 됩니다.
 
 <br>
 
-### > 파트 5 ->  [Part5](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part05.md) 
+> 파트 5 ->  [Part5](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part05.md) 
 

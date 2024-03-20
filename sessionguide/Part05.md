@@ -74,4 +74,4 @@ API를 호출해서도  다음 같이 설문조사 내용 분석 결과를 얻�
 <br>
 <br>
 >>>>> 실습한 내용에 대해서 다 자세히 알아 보고 싶다면? 
-[더 알아보기](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/더 알아보기.md)   
+[더 알아보기](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/더%20알아보기.md)   

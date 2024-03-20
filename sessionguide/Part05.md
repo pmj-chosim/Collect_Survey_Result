@@ -50,32 +50,7 @@
     blob_account_name = "gabs101" #메모했던 내용으로 수정
     blob_account_key = "BP3TFJ+rMuxxCq/zDutEjqVCuuAfjijzEaUEe07wwsofI2XTpZ/+w0hRxMEV2wQYYIlCDvV7Ubez+AStoDXWeA==" # #메모했던 내용으로 수정
 
-    # #blob에서 예제 1의 url : https://계정이름.blob.core.windows.net/gabs101/예제1.pdf 이렇게 되어 있는데 https://계정이름.blob.core.windows.net/gabs101/ 이걸 붙여넣기
-    blob_url = f'https://gabs101.blob.core.windows.net/gabs101/{file_name}' # #메모했던 예제1  URL 일부 내용으로 수정. /{file_name}은 그대로 둬 주세요
-  ```
-
-*참고 : Doument Intelligence에서 제공하는 API 코드는 blob SAS링크를 사용해서, 여러 문서에 대해 자동화하려면 코드 수정이 필요합니다.   
-(blob stroage 키 인증을 해서, 여러 설문조사 문서에 대해 처리할 수 있게 하겠습니다.)  
-
-#### (5) 두 번째, 세 번 박스(코드)를 실행합니다.  
-
-![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/92a412d0-01d3-4cff-be19-4365928f89b9)  
-
-API를 호출해서도  다음 같이 설문조사 내용 분석 결과를 얻을 수 있는 것을 확인 가능합니다.  
-
-하지만 결과에 굳이 필요하지 않은 정보들도 많습니다.  
-
-
-#### (6) 네 번째, 다섯 번째, 여섯 번쨰 코드를 실행합니다.
-
-![image](https://github.com/pmj-chosim/azureappdeploy/assets/114579651/444b377b-6865-41e2-95df-992f59d490a1)
-
-실행 후 txt폴더의 txt 파일 내용들을 보면, 값이 더 간소하게 잘 추출된 것을 확인할 수 있습니다.
-
-<br>
-<br>
-
-> 실습한 내용에 대해서 다 자세히 알아 보고 싶다면?  
+    # #blob에서 예제 1의 url : https://계정이름.blob.core.windows.net/gabs101/예제1.pdf 이렇게 되어 있는데 h더 자세히 알아 보고 싶다면?  
 [더 자세히 알아보기](https://github.com/pmj-chosim/Collect_Survey_Result/blob/main/sessionguide/More.md)
 
 

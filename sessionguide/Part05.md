@@ -54,7 +54,8 @@
     blob_url = f'https://gabs101.blob.core.windows.net/gabs101/{file_name}' # #메모했던 예제1  URL 일부 내용으로 수정. /{file_name}은 그대로 둬 주세요
   ```
 
-*참고 : Code API로 바로 제공해주는 거는 blob SAS링크 사용해야함. blob 인증키 코드가 포함안돼서
+*참고 : Doument Intelligence에서 제공하는 API 코드는 blob SAS링크를 사용해서, 여러 문서에 대해 자동화하려면 코드 수정이 필요합니다.   
+(blob stroage 키 인증을 해서, 여러 설문조사 문서에 대해 처리할 수 있게 하겠습니다.)  
 
 #### (5) 두 번째, 세 번 박스(코드)를 실행합니다.  
 

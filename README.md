@@ -29,3 +29,4 @@
 #### 3. Part3 : [Part3 링크](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part03.md) 
 #### 4. Part4 : [Part4 링크](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part04.md) 
 #### 5. Part5 : [Part5 링크](https://github.com/pmj-chosim/azureappdeploy/blob/main/sessionguide/Part05.md) 
+#### 6. 더 자세히 알아보기 : [More](https://github.com/pmj-chosim/Collect_Survey_Result/blob/main/sessionguide/More.md)
